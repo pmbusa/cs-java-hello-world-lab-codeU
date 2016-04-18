@@ -1,110 +1,147 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="pletcher.local" name="com.flatironschool.javacs.HelloWorldTest" skipped="0" tests="1" time="0.289" timestamp="2016-03-15T15:44:25">
+<testsuite errors="0" failures="0" hostname="PaulMbusa" name="com.flatironschool.javacs.HelloWorldTest" skipped="0" tests="1" time="0.493" timestamp="2016-04-18T12:25:07">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.SYSTEMROOT" value="C:\WINDOWS" />
+    <property name="env.MOZ_PLUGIN_PATH" value="C:\PROGRAM FILES (X86)\FOXIT SOFTWARE\FOXIT READER\plugins\" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="PAULMBUSA" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
-    <property name="env.XPC_SERVICE_NAME" value="0" />
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
-    <property name="env.COLORFGBG" value="12;8" />
-    <property name="os.name" value="Mac OS X" />
-    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/classes" />
-    <property name="env.TMPDIR" value="/var/folders/8d/vpdn7q2d2pq61rx2bnyk5bl00000gn/T/" />
-    <property name="env.PWD" value="/Users/pletcher/Development/code/cs-hello-world-lab" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 10" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_60\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_60\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_60\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_60\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_60\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_60\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_60\jre\classes" />
+    <property name="env.TMPDIR" value="C:\Users\PAUL_M~1\AppData\Local\Temp" />
+    <property name="env.COMPUTERNAME" value="PAULMBUSA" />
+    <property name="env.PWD" value="C:/Users/Paul_Mbusa/Google Drive/Google Documents/Google CodeU/cs-java-hello-world-lab-codeU" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
     <property name="env.LANG" value="en_US.UTF-8" />
-    <property name="env.LESS" value="-R" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
-    <property name="ant.home" value="/usr/local/Cellar/ant/1.9.6/libexec" />
-    <property name="java.runtime.version" value="1.8.0_74-b02" />
-    <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.bSdYejpPFn/Render" />
-    <property name="user.name" value="pletcher" />
-    <property name="env.USER" value="pletcher" />
-    <property name="env.SHELL" value="/bin/zsh" />
-    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0" />
-    <property name="env.PATH" value="/Users/pletcher/.rbenv/versions/2.3.0/bin:/usr/local/Cellar/rbenv/1.0.0/libexec:/Users/pletcher/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin" />
+    <property name="ant.home" value="C:\Program Files (x86)\apache-ant-1.9.6" />
+    <property name="java.runtime.version" value="1.8.0_60-b27" />
+    <property name="env.HOMEPATH" value="\Users\Paul_Mbusa" />
+    <property name="user.name" value="Paul Mbusa" />
+    <property name="env._" value="C:/RailsInstaller/Ruby2.2.0/bin/learn-test" />
+    <property name="env.USER" value="Paul Mbusa" />
+    <property name="env.SHELL" value="C:/Program Files/Git/usr/bin/bash" />
+    <property name="env.MSYSTEM" value="MINGW64" />
+    <property name="env.PATH" value="C:\Users\Paul_Mbusa\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Users\Paul_Mbusa\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm;C:\Program Files (x86)\PharosSystems\Core;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\HashiCorp\Vagrant\bin;C:\Program Files\Java\jdk1.8.0_60\bin;%ANT_HOME%\bin;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.2.0\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\apache-ant-1.9.6\bin;C:\Program Files\Java\jdk1.8.0_60\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl" />
     <property name="user.language" value="en" />
-    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib" />
+    <property name="env.EXEPATH" value="C:\Program Files\Git" />
+    <property name="env.WINDIR" value="C:\WINDOWS" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_60\jre\bin" />
     <property name="ant.project.default-target" value="build" />
-    <property name="env.XPC_FLAGS" value="0x0" />
     <property name="ant.project.name" value="JavaCS" />
-    <property name="env.LC_CTYPE" value="en_US.UTF-8" />
-    <property name="java.version" value="1.8.0_74" />
+    <property name="java.version" value="1.8.0_60" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel" />
     <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\PAUL_M~1\AppData\Local\Temp" />
     <property name="sun.arch.data.model" value="64" />
-    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
-    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/endorsed" />
-    <property name="sun.cpu.isalist" value="" />
-    <property name="sun.jnu.encoding" value="UTF-8" />
-    <property name="env.ITERM_SESSION_ID" value="w0t2p1:1EE13A33-D132-4FEA-A0DE-F53739370DC3" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_60\jre\lib\endorsed" />
+    <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_60\bin\java.exe" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
     <property name="file.encoding.pkg" value="sun.io" />
-    <property name="env.SHLVL" value="3" />
-    <property name="file.separator" value="/" />
+    <property name="env.SHLVL" value="1" />
+    <property name="env.SYSTEMDRIVE" value="C:" />
+    <property name="file.separator" value="\" />
+    <property name="env.HOSTNAME" value="PaulMbusa" />
     <property name="java.specification.name" value="Java Platform API Specification" />
     <property name="java.class.version" value="52.0" />
     <property name="user.country" value="US" />
-    <property name="ant.file.JavaCS" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/build.xml" />
-    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre" />
-    <property name="env.ZSH" value="/Users/pletcher/.oh-my-zsh" />
+    <property name="env.PRINTER" value="VUprint-Anywhere" />
+    <property name="ant.file.JavaCS" value="C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU\javacs-lab00\build.xml" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_60\jre" />
+    <property name="env.PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\Paul_Mbusa\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
     <property name="java.vm.info" value="mixed mode" />
-    <property name="env.LOGNAME" value="pletcher" />
-    <property name="ant.file" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/build.xml" />
-    <property name="os.version" value="10.11.3" />
-    <property name="path.separator" value=":" />
-    <property name="java.vm.version" value="25.74-b02" />
-    <property name="env.RBENV_ROOT" value="/Users/pletcher/.rbenv" />
-    <property name="ant.library.dir" value="/usr/local/Cellar/ant/1.9.6/libexec/lib" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="ant.file" value="C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU\javacs-lab00\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="env._USE_CLASSPATH" value="no" />
+    <property name="env.=::" value="::\" />
+    <property name="path.separator" value=";" />
+    <property name="env.ACLOCAL_PATH" value="C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal" />
+    <property name="env.OMP_NUM_THREADS" value="4" />
+    <property name="java.vm.version" value="25.60-b23" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\Paul_Mbusa" />
+    <property name="ant.library.dir" value="C:\Program Files (x86)\apache-ant-1.9.6\lib" />
+    <property name="env.SSL_CERT_FILE" value="C:\RailsInstaller\cacert.pem" />
     <property name="junit.output.dir" value="junit" />
-    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
-    <property name="env.TERM" value="xterm-256color" />
-    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
-    <property name="env.RBENV_VERSION" value="2.3.0" />
-    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
-    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
-    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
-    <property name="env.LSCOLORS" value="Gxfxcxdxbxegedabagacad" />
-    <property name="env.JAVA_MAIN_CLASS_4865" value="org.apache.tools.ant.launch.Launcher" />
-    <property name="user.home" value="/Users/pletcher" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_60" />
+    <property name="env.TERM" value="xterm" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\PAUL_M~1\AppData\Local\Temp" />
+    <property name="env.PROGRAMFILES" value="C:\Program Files" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="env.MANPATH" value="C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man" />
+    <property name="env.ILLDIR" value="C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\" />
     <property name="target" value="1.6" />
-    <property name="env.RBENV_HOOK_PATH" value="/Users/pletcher/.rbenv/rbenv.d:/usr/local/Cellar/rbenv/1.0.0/rbenv.d:/usr/local/etc/rbenv.d:/etc/rbenv.d:/usr/lib/rbenv/hooks" />
+    <property name="user.home" value="C:\Users\Paul_Mbusa" />
+    <property name="env.COMMONPROGRAMFILES" value="C:\Program Files\Common Files" />
+    <property name="env.VS140COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
-    <property name="env.TERM_PROGRAM" value="iTerm.app" />
-    <property name="env.PAGER" value="less" />
-    <property name="java.library.path" value="/Users/pletcher/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_60\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Paul_Mbusa\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Users\Paul_Mbusa\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm;C:\Program Files (x86)\PharosSystems\Core;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\HashiCorp\Vagrant\bin;C:\Program Files\Java\jdk1.8.0_60\bin;%ANT_HOME%\bin;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.2.0\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\apache-ant-1.9.6\bin;C:\Program Files\Java\jdk1.8.0_60\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;." />
     <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
-    <property name="gopherProxySet" value="false" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="env.CM2015DIR" value="C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\" />
+    <property name="java.class.path" value="C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU\javacs-lab00\bin;C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU\javacs-lab00\lib\junit-4.12.jar;C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU\javacs-lab00\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\apache-ant-1.9.6\lib\ant-launcher.jar;C:\Program Files (x86)\apache-ant-1.9.6\lib\ant.jar;C:\Program Files (x86)\apache-ant-1.9.6\lib\ant-junit.jar;C:\Program Files (x86)\apache-ant-1.9.6\lib\ant-junit4.jar" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
-    <property name="java.class.path" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/bin:/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/lib/junit-4.12.jar:/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/lib/hamcrest-core-1.3.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-launcher.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit4.jar" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.HelloWorldTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/junit/TEST-com.flatironschool.javacs.HelloWorldTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/junitvmwatcher8138220387164148789.properties propsfile=/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/junit1756973550264587017.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.HelloWorldTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU\javacs-lab00\junit\TEST-com.flatironschool.javacs.HelloWorldTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU\javacs-lab00\junitvmwatcher963256043548217309.properties propsfile=C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU\javacs-lab00\junit2897093376100970392.properties" />
     <property name="ant.file.type.JavaCS" value="file" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
     <property name="ant.file.type" value="file" />
-    <property name="env.RBENV_SHELL" value="zsh" />
+    <property name="env.LOGONSERVER" value="\\MicrosoftAccount" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
     <property name="java.vm.specification.version" value="1.8" />
-    <property name="sun.os.patch.level" value="unknown" />
+    <property name="sun.os.patch.level" value="" />
     <property name="sun.cpu.endian" value="little" />
-    <property name="env.HOME" value="/Users/pletcher" />
     <property name="debuglevel" value="source,lines,vars" />
-    <property name="java.io.tmpdir" value="/var/folders/8d/vpdn7q2d2pq61rx2bnyk5bl00000gn/T/" />
+    <property name="env.HOME" value="C:\Users\Paul_Mbusa" />
+    <property name="env.ANT_HOME" value="C:\Program Files (x86)\apache-ant-1.9.6" />
+    <property name="java.io.tmpdir" value="C:\Users\PAUL_M~1\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="3a09" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
-    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.hPZ3uVKcOA/Listeners" />
-    <property name="env.RUBYLIB" value="/usr/local/Cellar/rbenv/1.0.0/rbenv.d/exec/gem-rehash:" />
-    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
-    <property name="os.arch" value="x86_64" />
-    <property name="java.ext.dirs" value="/Users/pletcher/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
-    <property name="user.dir" value="/Users/pletcher/Development/code/cs-hello-world-lab" />
-    <property name="line.separator" value="&#xa;" />
+    <property name="env.COMSPEC" value="C:\WINDOWS\system32\cmd.exe" />
+    <property name="os.arch" value="amd64" />
+    <property name="env.ANT_CMD_LINE_ARGS" value=" test -buildfile javacs-lab00/build.xml" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="env.PLINK_PROTOCOL" value="ssh" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_60\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\Paul_Mbusa\AppData\Local" />
+    <property name="env.PS1" value="\[\033]0;$MSYSTEM:${PWD//[^[:ascii:]]/?}\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ " />
+    <property name="env.INFOPATH" value="C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info" />
+    <property name="line.separator" value="&#xd;&#xa;" />
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
-    <property name="basedir" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00" />
-    <property name="env.ITERM_PROFILE" value="Default" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="basedir" value="C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU\javacs-lab00" />
     <property name="ant.java.version" value="1.8" />
-    <property name="ant.core.lib" value="/usr/local/Cellar/ant/1.9.6/libexec/lib/ant.jar" />
+    <property name="ant.core.lib" value="C:\Program Files (x86)\apache-ant-1.9.6\lib\ant.jar" />
+    <property name="env.USERNAME" value="Paul Mbusa" />
     <property name="source" value="1.6" />
-    <property name="env.RBENV_DIR" value="/Users/pletcher/Development/code/cs-hello-world-lab" />
-    <property name="file.encoding" value="UTF-8" />
-    <property name="env.ZSH_THEME" value="jbergantine" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.PKG_CONFIG_PATH" value="C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig" />
+    <property name="env.USERDOMAIN" value="PAULMBUSA" />
     <property name="java.specification.version" value="1.8" />
+    <property name="env.=C:" value="C:\Users\Paul_Mbusa\Google Drive\Google Documents\Google CodeU\cs-java-hello-world-lab-codeU" />
     <property name="ant.project.invoked-targets" value="test" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+    <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\" />
   </properties>
   <testcase classname="com.flatironschool.javacs.HelloWorldTest" name="testGetVersion" time="0.002" />
   <system-out><![CDATA[]]></system-out>
